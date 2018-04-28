@@ -30,7 +30,9 @@ JavaObjectDeserialization:
     "Yaml.load",
     "fromXML",
     "ObjectMapper.readValue",
-    "JSON.parseObject"
+    "JSON.parseObject",
+    "writeOutputobject",
+    "objectInputStream"
 SSRF:
     "HttpClient",
     "URL",
